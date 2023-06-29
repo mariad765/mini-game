@@ -28,11 +28,11 @@ There are magic potions randomly spawned that may help the player win by increas
 
 Menu 1:
 
-![Menu 1](image.png)
+![Menu 1](first_menu.png)
 
 Game Scene:
 
-![game_scene](image.png)
+![game_scene](game_scene.png)
 
 
 
