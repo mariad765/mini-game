@@ -32,7 +32,12 @@ Menu 1:
 
 Game Scene:
 
-![game_scene](game_scene.png)
+![game_scene](scene_picture.png)
+
+Last Menu:
+
+![final_menu](last_menu.png)
+
 
 
 
