@@ -10,5 +10,5 @@ Playing instructions:
 
 2. Use arrows to rotate the island
 
-3. Press "m" to change to mouse control
+3. Press "x" to change to mouse control
 
