@@ -24,3 +24,7 @@ The difficulty is randomly generated ( there are more possible types of enemies 
 
 There are magic potions randomly spawned that may help the player win by increasing his power.
 
+## Spoiler Images:
+
+
+
