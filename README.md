@@ -30,5 +30,9 @@ Menu 1:
 
 ![Menu 1](image.png)
 
+Game Scene:
+
+![game_scene](image.png)
+
 
 
