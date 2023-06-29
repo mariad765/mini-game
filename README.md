@@ -6,6 +6,8 @@ Run the executable "prototype_4"
 
 Press "Joaca" to play 
 
+When the game is over pres "Iesire"
+
 ## Playing instructions:
 
 1. Press space to jump
