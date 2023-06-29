@@ -6,9 +6,9 @@ Press "Joaca" to play
 
 Playing instructions:
 
-1. Use space to jump
+1. Press space to jump
 
 2. Use arrows to rotate the island
 
-3. use 
+3. Press "m" to change to mouse control
 
