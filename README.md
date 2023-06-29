@@ -26,5 +26,9 @@ There are magic potions randomly spawned that may help the player win by increas
 
 ## Spoiler Images:
 
+Menu 1:
+
+![Menu 1](image.png)
+
 
 
